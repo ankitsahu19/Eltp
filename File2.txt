@@ -1,2 +1,5 @@
-Welcome to git Dmo : done by team mate fir WI5 for rebase testing on master.
-Check rebase merging
+
+Welcome to git Dmo : 
+Chnage1 : done by team mate fir WI5 for rebase testing on master.
+Chnage2 : for feature to test rebase
+Chnage to test rebase in EN1
