@@ -1,1 +1,2 @@
-Welcome to git demo 
+Welcome to git Dmo : done by team mate fir WI5 for rebase testing on master.
+Check rebase merging
